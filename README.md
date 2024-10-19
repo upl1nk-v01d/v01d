@@ -16,7 +16,7 @@ Karaoke singing platform:
 https://v01d.have.lv/karaoke/
 
 Futuristic city (wip):
-v01d.rf.gd/prjs/epic/
+http://v01d.rf.gd/prjs/epic/
 
 
 ## see you <img src='https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif' width='30px'>
