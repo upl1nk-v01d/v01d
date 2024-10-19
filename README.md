@@ -1,6 +1,9 @@
 # hi there <img src='https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif' width='60px'>
 
 ## About me
+My Name is Peteris.
+I am passionate programmer.
+
 
 
 
@@ -12,7 +15,7 @@ https://v01d.have.lv/yt2lav/
 Karaoke singing platform:
 https://v01d.have.lv/karaoke/
 
-Futuristic city:
+Futuristic city (wip):
 v01d.rf.gd/prjs/epic/
 
 
