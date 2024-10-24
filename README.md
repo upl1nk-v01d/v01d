@@ -1,6 +1,6 @@
 # hi there <img src='https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif' width='60px'>
 <b>My name is Pēteris</b>.<br>
-I am passionate programmer.<br>
+I am sophisticated programmer.<br>
 Every day I dedicate my time to program from idea to something real.<br><br>
 
 # See my top projects so far:<br>
