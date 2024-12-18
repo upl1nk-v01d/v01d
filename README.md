@@ -9,7 +9,8 @@ Youtube video player with translation: https://v01d.have.lv/yt2lav/
 <br>
 Karaoke singing platform: https://v01d.have.lv/karaoke/
 <br>
-Futuristic city (wip): http://v01d.rf.gd/prjs/epic/ <br><br>
+Futuristic city (wip): http://v01d.rf.gd/prjs/epic/ <br>
+My WordPress market: http://mplace.infinityfreeapp.com/ <br><br>
 
 # See my profile to know more about me:
 
